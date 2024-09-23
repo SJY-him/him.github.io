@@ -1,0 +1,48 @@
+h2{
+    color:blue;
+}
+p{
+    color:black
+}
+* {
+    padding: 0;
+    margin: 0;
+}
+header, section, footer {
+    background-color: yellow;
+    border: 5px purple dashed;
+    padding: 30px;
+}
+header {
+    background-color: greenyellow;
+    height: 80px;
+    width: 100%;
+}
+h1{
+    position: absolute;
+    right: 500px;
+    line-height: 90px;
+    background-image: url(P/111.png);
+    background-repeat: no-repeat;
+    background-position: 520px 0px;
+    width:700px;
+    height: 400px;
+}
+.one {
+    background-color: fuchsia;
+    height: 100vh;
+    background-image: url("P/image1.jpg");
+    
+}
+h2{
+    position: absolute;
+    right: 500px;
+    line-height: 90px;
+    background-image: url(P/3.png);
+    background-repeat: no-repeat;
+    background-position: 100px 30px;
+    width:900px;
+    height: 400px;
+}
+
+

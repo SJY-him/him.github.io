@@ -1,0 +1,58 @@
+.login{
+    position: absolute;
+    right: 500px;
+    line-height: 90px;
+    background-image: url(P/image2.png);
+    background-repeat: no-repeat;
+    background-position: 460px 100px;
+    width:900px;
+    height: 800px;
+}
+body{
+    background-image: url(P/image1.jpg);
+}
+.SJY{
+    color: azure;
+    flex: 1;
+    text-align: center;
+    line-height: 60px;
+    position: relative;  
+    left: 210px;
+    top: 200px;
+}
+.SJY1{
+    font-size: 40px;
+    color: azure;
+    flex: 1;
+    text-align: center;
+    line-height: 90px;
+    position: relative;  
+    left: 220px;
+    top: 360px;
+    
+}
+.login input{
+    color: black;
+    background-color: dimgray;
+}
+.login button{
+    font-size: 35px;
+    background-color: dimgray;
+}
+.choose{
+    color: azure;
+    font-size: 15px;
+    position: relative; 
+    left: 580px;
+    top: 70px;
+}
+.choose1{
+    color: azure;
+    font-size: 15px;
+    position: relative; 
+    left: 410px;
+    top: 100px;
+}
+.last{
+    color: red;
+}

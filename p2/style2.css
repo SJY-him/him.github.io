@@ -1,0 +1,23 @@
+.A{
+    background-color: blue;
+    color: red;
+}
+body{
+    background-image: url(P/image1.jpg);
+}
+.B{
+    background-color: pink;
+    color: blue;
+}
+table{
+    position: relative; 
+    left: 150px;
+    top: 200px;
+    font-size: 30px;
+    border: 15px yellow dashed;
+}
+form{
+    position: relative;
+    left: 150px;
+    top: 150px;
+}
